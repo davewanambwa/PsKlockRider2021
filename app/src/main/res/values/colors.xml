@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="_bg___1_splashscreen_color">#ffffff</color>
+    <color name="mask_yellow_color">#4A4209</color>
+    <color name="_bg___2_landingpage_color">#ffffff</color>
+
+    <color name="_bg__select_ride_details_color">#ffffff</color>
+    <color name="pickup_point_color">#2d2b2b</color>
+    <color name="ellipse_1_color">#899548</color>
+    <color name="ellipse_2_color">#de473b</color>
+    <color name="_bg__landingpage_color">#ffffff</color>
+    <color name="headerblack_color">#2d2b2b</color>
+    <color name="rectangleridebutton_color">#fce903</color>
+    <color name="order_ride_color">#000000</color>
+    <color name="what_do_you_need___color">#ffffff</color>
+    <color name="rectangle_2_color">#312e2e</color>
+    <color name="ellipse_6_color">#d9cccc</color>
+
+    <color name="white">#ffffff</color>
+
+</resources>
